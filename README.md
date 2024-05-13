@@ -5,4 +5,4 @@
 
 ### 🖥️ About me 🖥️
 - I'm new to programming 😅
-- *Junior fullstack developer* trained by Factoría F5 Bootcamp 📚
+- *Junior fullstack developer* training by Factoría F5 Bootcamp 📚
