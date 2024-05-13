@@ -1,8 +1,13 @@
 # Hi!👋 I'm Juan Antonio Molina 🤓 (*@JuanMolinaRey*) 
 
-## ![ProgrammerProgrammingGIF](https://github.com/JuanMolinaRey/JuanMolinaRey/assets/169648270/bee029d5-d9d5-4834-8222-fe385fc1e534)
+![ProgrammerProgrammingGIF](https://github.com/JuanMolinaRey/JuanMolinaRey/assets/169648270/bee029d5-d9d5-4834-8222-fe385fc1e534)
 
 
-### 🖥️ About me 🖥️
+## 🖥️ About me 🖥️
+
 - I'm new to programming 😅
 - *Junior fullstack developer* training Factoria F5 Bootcamp 📚
+
+## 📱 Contact 📱
+
+- Email: JuanMolinaRey7@gmail.com
