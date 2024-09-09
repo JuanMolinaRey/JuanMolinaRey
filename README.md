@@ -3,7 +3,7 @@
 ![ProgrammerProgrammingGIF](https://github.com/JuanMolinaRey/JuanMolinaRey/assets/169648270/bee029d5-d9d5-4834-8222-fe385fc1e534)
 
 # 💫 About Me 💫
-🔭 Currently Working On: Enhancing my skills in backend development and DevOps practices.<br>👯 Looking to Collaborate On: Exciting projects that blend creativity and technology.<br>🤝 Seeking Help With: Mastering advanced DevOps tools and practices.<br>🌱 Currently Learning: Spring Boot, Docker, Kubernetes, and cloud infrastructure.<br>💬 Ask Me About: Java, Shell scripting.<br>
+🔭 Currently Working On: Enhancing my skills in backend development and DevOps practices.<br>👯 Looking to Collaborate On: Exciting projects that blend creativity and technology.<br>🤝 Seeking Help With: Mastering advanced DevOps tools and practices.<br>🌱 Currently Learning: Spring Boot, Docker, Kubernetes, and cloud infrastructure.<br>💬 Programming languages: Java, Shell scripting.<br>
 
 
 ## 🌐 Socials 🌐
